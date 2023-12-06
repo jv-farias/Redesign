@@ -6,7 +6,7 @@
 - 🇺🇸 Project edited after finishing the first part of freecodecamp.org Responsive Web Design - "Learn HTML by Building a Cat Photo App".
 
 
-🔗[Click here to accesss](https://jv-farias.github.io/Redesign/)
+🔗[Click here to accesss](https://jv-farias.github.io/redesign/)
 
  ## 🔨 Tecnologias (Skills Used)
 - HTML
